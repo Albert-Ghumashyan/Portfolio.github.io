@@ -23,6 +23,10 @@
     margin-bottom: .75rem;
 }
 
+.projectImage img {
+    height: 200px;
+}
+
 .projectsButton {
     position: absolute;
     right: 1rem;

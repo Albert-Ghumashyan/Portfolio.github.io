@@ -81,6 +81,7 @@
    .servicesContainer {
      display: flex;
      flex-wrap: wrap;
+     gap: 2.5rem;
    }   
 
    .servicesCard {
@@ -97,7 +98,7 @@
    }
 
    .servicesCard {
-      width: 28%;
+      width: 35%;
    }
 
    .servicesContent {
