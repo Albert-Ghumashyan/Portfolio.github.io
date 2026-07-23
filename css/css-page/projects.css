@@ -12,13 +12,12 @@
     transition:  background-color .8s;
     border-radius: 5px;
     cursor: pointer;
-border: 1px solid rgba(0, 0, 0, 0.06);
-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
-border-radius: 12px;
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .projectsCard:hover{
