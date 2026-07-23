@@ -26,8 +26,8 @@
 }
 
 .navLogo-circle, .navToggle {
-    width: 32px;
-    height: 32px;
+    width: 42px;
+    height: 42px;
     background: var(--black-color);
     color: var(--white-color);
     display:flex;
@@ -37,6 +37,10 @@
 
 .navLogo-circle {
    border-radius: 50%;
+}
+
+.navLogo-name  {
+   font-size: 20px;
 }
 
 .navToggle {
